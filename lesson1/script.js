@@ -154,9 +154,27 @@ let banner = $(".wrapper");
 //     
 // }); 
 
-/////////////////////////////////////////// 
+/////////////////////////////////////////// hide() show() toggle()
 
+// $(document).ready(function(){
+//     $("section > h2").on("click" , function(){
+//        /// $(this).hide(1000).show(1000);
+//        $(this).toggle(1000);
+//     });
+// });
 
+/////////////////////////////////////////// slideDown slideUp slideToogle
+//$(document).ready(function(){
+//   // $(".slide-button-up").on("click",function(){
+//   //     $("#lead-banner").slideUp(1000);
+//   // });
+//   // $(".slide-button-down").on("click",function(){
+//   //     $("#lead-banner").slideDown(3000);
+//   // });
+//    $(".slide-button-up").on("click",function(){
+//        $("#lead-banner").slideToggle(1000);
+//    });
+//});
 
   
 
